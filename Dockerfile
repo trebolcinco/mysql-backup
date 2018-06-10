@@ -1,5 +1,5 @@
 # mysql backup image
-FROM alpine:3.7
+FROM resin/armhf-alpine:latest
 MAINTAINER Avi Deitcher <https://github.com/deitch>
 
 # install the necessary client
